@@ -1,8 +1,16 @@
 # python-challenge
-Background
+The tasked is to create a Python script for analyzing the financial records of your company.  revenue data is provided. 
 
-Well... you've made it!
+Dataset is composed of two columns: Date and Revenue. 
 
-It's time to put away the Excel sheet and join the big leagues. Welcome to the world of programming with Python. In this homework assignment, you'll be using the concepts you've learned to complete 2 of 4 Python Challenges. Which ones you choose are completely your choice. In fact, feel encouraged to complete them all if you can muster the time.
+Your task is to create a Python script that analyzes the records to calculate each of the following:
 
-Each of these challenges encompasses a real-world situation where your newfound Python scripting skills can come in handy. These challenges are far from easy so expect some hard work ahead!
+The total number of months included in the dataset
+
+The total amount of revenue gained over the entire period
+
+The average change in revenue between months over the entire period
+
+The greatest increase in revenue (date and amount) over the entire period
+
+The greatest decrease in revenue (date and amount) over the entire period
